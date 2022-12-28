@@ -1,0 +1,8 @@
+flask
+datetime
+json
+numpy
+matplotlib
+pandas
+keras
+sklearn.preprocessing 
